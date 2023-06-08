@@ -1,0 +1,59 @@
+1. Linux Introudction:
+
+User Processes -> GUI,shell ,Apps
+Linux Kernal -> System calls,process management, memory management
+Hardware -> CPU, RAM, Disks, Networks Ports
+
+User (output through GUIor shell) -> Linux Kernal (intermediate) -> Hardware
+
+2. Command Line Interface:
+
+# pwd -> (print working directory)
+# date -> show dates
+# date ; ls -> both Commands together
+# ls -> list files and directory
+# ls -a -> -a means all files that will show hidden files also
+# clear -> to clear screen
+# ls -a /root/Desktop -> to show all files in Desktop
+# cd Desktop -> change directory to Desktop
+
+# echo $Shell -> 
+
+
+3. Manage Files & Directory:
+navigate ->
+list files -> 
+create files -> 
+remove files ->
+copy files -> 
+move files ->
+rename files ->
+
+navigate:
+# cd .. -> if want to go up , as first dot of current directory and second dot for parent directory to naviagte
+# cd /home/ -> entering into directory home
+# cd ../.. -> it want upward from child to parent one time
+# pwd 
+if you in /home/walid
+# cd ../.. -> it went upward two times.
+# cd - -> it takes to back step
+
+create & delete files:
+----------------------
+# touch fileName.txt ->to create files
+# rm fileName -> to remove fileName
+# rm -f fileName.txt -> forcely deleting file
+
+create direcory :
+-----------------
+# mkdir data -> create data directory
+# cd data/
+# touch fileName.txt
+# clear
+
+# rm -r data/ -> removing data direcory
+# touch fileName1.txt /home/data -> creating file inside data folder with name fileName1.txt
+
+# touch fileName.txt
+
+(upto 5 Videos)
